@@ -6,13 +6,13 @@
 |                |            |           |
 |                |            |           |
 
-# G02a
-
 ## Link Youtube (Unlisted)
 Link ditaruh di bawah ini
 ```
 
 ```
+
+# [G02a] Webcam Web App
 
 ## Penjelasan Program
 
@@ -20,13 +20,7 @@ Link ditaruh di bawah ini
 
 ---
 
-# G02b
-
-## Link Youtube (Unlisted)
-Link ditaruh di bawah ini
-```
-
-```
+# [G02b] Browser Window Mirror
 
 ## Penjelasan Program
 
